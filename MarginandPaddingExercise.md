@@ -1,6 +1,6 @@
 
 
-## Padding and Margin Exercise for Beginners
+## Padding and Margin Exercise 
 
 ### Introduction
 
